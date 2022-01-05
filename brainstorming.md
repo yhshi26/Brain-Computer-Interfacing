@@ -4,15 +4,15 @@
 ## Small projects
 These small projects are listed in order of increasing predicted difficulty.
 
-### Pong
+### Pong (or other basic game)
 - code simple two-player game, hit ball back and forth
 - take brain-data as input
   - parse for up/down
 
-### Human-human interfacing
+### Human-human interfacing (motor control)
 - take brain-data as input
   - parse(?)
-- use motor-control on another subject using electrode on corresponding limb
+- use motor control on another subject using electrode on corresponding limb
 
 ### Drone
 - use pre-built drone from inventory
