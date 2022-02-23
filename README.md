@@ -1,6 +1,6 @@
 # Brain-Computer Interfaces
 
-##Alternate names
+## Alternate names
 Brain-computer interfaces (BCI) go by numerous names including:
 - Brain–machine interfaces (BMI)
 - Direct neural interfaces (DNI)
