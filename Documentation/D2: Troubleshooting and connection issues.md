@@ -1,0 +1,25 @@
+# D2: Troubleshooting and connection issues
+
+## Connecting hardware and software
+- Set up electrodes in headset, plug in USB dongle, turn on headset (in that specific order)
+- Connect Emotiv Epoc+ to Emotiv Launcher (then open whichever software to be used, e.g. EmotivBCI)
+
+## Issues 
+- There were connectivity issues using the USB dongle to connect Emotiv Epoc+ to Emotiv Launcher
+  - The USB cable can be used alternatively but it did not fully work
+
+### Troubleshooting
+- LED indicators can be used to troubleshoot connection issues available on [this page](https://emotiv.gitbook.io/epoc-user-manual/using-headset/led-indicators) in the [user manual](https://emotiv.gitbook.io/epoc-user-manual/)
+- Actions:
+  - Power off/battery flat: power LED off and charging LED off
+  - Power on: power LED on and charging LED off
+  - USB connected/charging: power LED off and charging LED orange
+  - Charging complete: power LED off and charging LED green
+  - Firmware failure: power LED fade-on-fade-off and charging LED off
+
+> We specifically experienced something close to a firmware failure indication with the power LED fade-on-fade off and charging LED fade-on-fade-off
+> 
+> We have emailed customer support regarding this and will continue troubleshooting in the meantime
+
+## Extra
+> Page on [safety precautions](https://emotiv.gitbook.io/epoc-user-manual/introduction-1/safety_precautions)
